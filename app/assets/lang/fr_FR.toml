@@ -204,7 +204,7 @@ errorDuringFileDownloadTitle = "Erreur lors du téléchargement des fichiers"
 preparingToLaunch = "Préparation du lancement.."
 launchingGame = "Lancement du jeu.."
 launchWrapperNotDownloaded = "Le fichier principal, LaunchWrapper, n'a pas été téléchargé correctement. En conséquence, le jeu ne peut pas être lancé.<br><br>Pour résoudre ce problème, désactivez temporairement votre logiciel antivirus et relancez le jeu.<br><br>Si vous avez le temps, veuillez <a href=\"https://github.com/dscalzi/HeliosLauncher/issues\">soumettre un problème</a> et nous indiquer quel logiciel antivirus vous utilisez. Nous les contacterons et essaierons de régler le problème."
-doneEnjoyServer = "Terminé. Profitez du serveur !"
+doneEnjoyServer = "Terminé. Profitez!"
 checkConsoleForDetails = "Veuillez vérifier la console (CTRL + Maj + i) pour plus de détails."
 
 [js.landing.news]
